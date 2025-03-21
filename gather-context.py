@@ -21,7 +21,7 @@ DEFAULT_EXTENSIONS = [
 
 # Default directories and patterns to exclude
 DEFAULT_EXCLUDES = [
-    '**/node_modules/**', '**/venv/**', '**/.git/**', 
+    '**/node_modules/**', '**/venv/**', '**/.venv/**', '**/.git/**', 
     '**/build/**', '**/dist/**', '**/__pycache__/**',
     '**/.env', '**/env/**', '**/.vscode/**', '**/.idea/**',
     '**/vendor/**', '**/bin/**', '**/obj/**',
